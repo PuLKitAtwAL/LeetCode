@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1140-stone-game-ii) |
+| [1563-stone-game-v](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1563-stone-game-v) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1140-stone-game-ii](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1563-stone-game-v) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1140-stone-game-ii](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1140-stone-game-ii](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1563-stone-game-v) |
 ## Zero-Sum Game
 |  |
 | ------- |
