@@ -4,6 +4,7 @@ data structures, algorithms, and problem-solving skills.
 
 Solutions are organized by problem number and LeetCode topic.
 Each problem is stored in its own folder using the LeetCode problem number and title.
+Each solution contains the problem-specific implementation and supporting information
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
