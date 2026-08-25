@@ -3,6 +3,7 @@ A collection of LeetCode problems solved in C++ to strengthen
 data structures, algorithms, and problem-solving skills.
 
 Solutions are organized by problem number and LeetCode topic.
+Each problem is stored in its own folder using the LeetCode problem number and title.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
