@@ -1,6 +1,8 @@
 # LeetCode
-A collection of LeetCode questions to ace the coding interview!
+A collection of LeetCode problems solved in C++ to strengthen
+data structures, algorithms, and problem-solving skills.
 
+Solutions are organized by problem number and LeetCode topic.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
