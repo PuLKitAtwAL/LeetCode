@@ -31,6 +31,7 @@ Each solution contains the problem-specific implementation and supporting inform
 | [0016-3sum-closest](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -61,6 +62,7 @@ Each solution contains the problem-specific implementation and supporting inform
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0202-happy-number) |
 | [1140-stone-game-ii](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1563-stone-game-v) |
@@ -151,6 +153,7 @@ Each solution contains the problem-specific implementation and supporting inform
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0202-happy-number) |
 | [1386-cinema-seat-allocation](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
@@ -178,5 +181,6 @@ Each solution contains the problem-specific implementation and supporting inform
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
