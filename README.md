@@ -23,6 +23,7 @@ Each solution contains the problem-specific implementation and supporting inform
 | [1386-cinema-seat-allocation](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1563-stone-game-v) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +70,7 @@ Each solution contains the problem-specific implementation and supporting inform
 | [1927-sum-game](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1927-sum-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Enumeration
 |  |
 | ------- |
