@@ -15,6 +15,7 @@ Each solution contains the problem-specific implementation and supporting inform
 | [0053-maximum-subarray](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -126,6 +127,7 @@ Each solution contains the problem-specific implementation and supporting inform
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0392-is-subsequence) |
 | [1140-stone-game-ii](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1510-stone-game-iv) |
