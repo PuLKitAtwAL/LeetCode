@@ -25,6 +25,7 @@ Each solution contains the problem-specific implementation and supporting inform
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +89,7 @@ Each solution contains the problem-specific implementation and supporting inform
 | [0209-minimum-size-subarray-sum](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1140-stone-game-ii) |
 | [3903-smallest-stable-index-i](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Database
 |  |
 | ------- |
