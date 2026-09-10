@@ -68,6 +68,7 @@ Each solution contains the problem-specific implementation and supporting inform
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0202-happy-number) |
 | [1140-stone-game-ii](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1510-stone-game-iv) |
