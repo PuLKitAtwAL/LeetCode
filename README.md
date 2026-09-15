@@ -43,6 +43,7 @@ Each solution contains the problem-specific implementation and supporting inform
 | [0392-is-subsequence](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PuLKitAtwAL/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
@@ -109,6 +110,7 @@ Each solution contains the problem-specific implementation and supporting inform
 | [0005-longest-palindromic-substring](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0392-is-subsequence) |
 | [1927-sum-game](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1927-sum-game) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PuLKitAtwAL/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -121,6 +123,7 @@ Each solution contains the problem-specific implementation and supporting inform
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1927-sum-game) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PuLKitAtwAL/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -138,6 +141,7 @@ Each solution contains the problem-specific implementation and supporting inform
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1510-stone-game-iv](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1563-stone-game-v) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PuLKitAtwAL/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Minimax
