@@ -21,6 +21,7 @@ Each solution contains the problem-specific implementation and supporting inform
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1140-stone-game-ii) |
@@ -62,6 +63,7 @@ Each solution contains the problem-specific implementation and supporting inform
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0704-binary-search) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Quicksort
@@ -139,6 +141,7 @@ Each solution contains the problem-specific implementation and supporting inform
 | [0005-longest-palindromic-substring](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0392-is-subsequence) |
 | [1140-stone-game-ii](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -224,4 +227,8 @@ Each solution contains the problem-specific implementation and supporting inform
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PuLKitAtwAL/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
