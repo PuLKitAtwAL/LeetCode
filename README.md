@@ -17,6 +17,7 @@ Each solution contains the problem-specific implementation and supporting inform
 | [0075-sort-colors](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -57,6 +58,7 @@ Each solution contains the problem-specific implementation and supporting inform
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0287-find-the-duplicate-number) |
