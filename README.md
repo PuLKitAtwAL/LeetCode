@@ -55,6 +55,7 @@ Each solution contains the problem-specific implementation and supporting inform
 | [0015-3sum](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Search
@@ -114,6 +115,7 @@ Each solution contains the problem-specific implementation and supporting inform
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0242-valid-anagram](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0392-is-subsequence) |
 | [1927-sum-game](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1927-sum-game) |
@@ -184,6 +186,7 @@ Each solution contains the problem-specific implementation and supporting inform
 | [0003-longest-substring-without-repeating-characters](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0242-valid-anagram) |
 | [1386-cinema-seat-allocation](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
