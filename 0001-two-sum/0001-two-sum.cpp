@@ -4,7 +4,7 @@ public:
         unordered_map<int, int> mp;
         for (int i = 0; i < nums.size(); i++) {
             int low = target - nums[i];
-            if (mp.find(low) != mp.end()) {
+          if (mp.count(low)){
                 return {mp[low], i};
             }
             mp[nums[i]] = i;
