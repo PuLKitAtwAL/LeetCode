@@ -30,6 +30,7 @@ Each solution contains the problem-specific implementation and supporting inform
 | [1386-cinema-seat-allocation](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1563-stone-game-v) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -90,6 +91,7 @@ Each solution contains the problem-specific implementation and supporting inform
 | [1927-sum-game](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1927-sum-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Enumeration
 |  |
@@ -142,6 +144,7 @@ Each solution contains the problem-specific implementation and supporting inform
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -192,6 +195,7 @@ Each solution contains the problem-specific implementation and supporting inform
 | [0242-valid-anagram](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0242-valid-anagram) |
 | [1386-cinema-seat-allocation](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -239,4 +243,8 @@ Each solution contains the problem-specific implementation and supporting inform
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Counting
+|  |
+| ------- |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 <!---LeetCode Topics End-->
