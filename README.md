@@ -35,6 +35,7 @@ Each solution contains the problem-specific implementation and supporting inform
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3904-smallest-stable-index-ii) |
@@ -98,6 +99,7 @@ Each solution contains the problem-specific implementation and supporting inform
 | [3345-smallest-divisible-digit-product-i](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Enumeration
 |  |
