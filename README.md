@@ -33,6 +33,7 @@ Each solution contains the problem-specific implementation and supporting inform
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1386-cinema-seat-allocation](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1563-stone-game-v) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
