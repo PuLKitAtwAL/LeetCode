@@ -34,6 +34,7 @@ Each solution contains the problem-specific implementation and supporting inform
 | [1386-cinema-seat-allocation](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1563-stone-game-v) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -114,6 +115,7 @@ Each solution contains the problem-specific implementation and supporting inform
 | [0003-longest-substring-without-repeating-characters](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -260,4 +262,24 @@ Each solution contains the problem-specific implementation and supporting inform
 |  |
 | ------- |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+## Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Segment Tree
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
