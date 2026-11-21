@@ -25,6 +25,7 @@ Each solution contains the problem-specific implementation and supporting inform
 | [0209-minimum-size-subarray-sum](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -70,6 +71,7 @@ Each solution contains the problem-specific implementation and supporting inform
 | [0049-group-anagrams](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -213,6 +215,7 @@ Each solution contains the problem-specific implementation and supporting inform
 | [0128-longest-consecutive-sequence](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1386-cinema-seat-allocation](https://github.com/PuLKitAtwAL/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -247,6 +250,7 @@ Each solution contains the problem-specific implementation and supporting inform
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -266,6 +270,7 @@ Each solution contains the problem-specific implementation and supporting inform
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Stack
 |  |
@@ -287,4 +292,16 @@ Each solution contains the problem-specific implementation and supporting inform
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/PuLKitAtwAL/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PuLKitAtwAL/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
